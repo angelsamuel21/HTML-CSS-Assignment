@@ -46,7 +46,7 @@ git config --local user.email "codewithangel@gmail.com"
 git config user.name
 git config user.email
 
-# create index.html (see index.html in this folder - first with only the h1)
+# create index.html 
 git status
 git add index.html
 git commit -m "Add home page"
